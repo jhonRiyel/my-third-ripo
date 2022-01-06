@@ -8,31 +8,59 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 20px;
 }
 .half-width{
     width: 40%;
-    padding-left: 10%;
+    padding-left: 100px;
     padding-top: 5%;
+    padding-right: 15%;
 }
 .half-width img{
-    width: 70%;
-    padding-left: 5%;
-    padding-top: 10%;
+    width: 100%;
+    padding-left: 50px;
+    padding-top: 20px;
 }
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(orange, tomato );
-    padding: 10px 40px;
+    padding: 15px 40px;
     color: white;
     font-weight: 700;
     border-radius: 5px;
 }
 h4{
     font-size: 20px;
+    padding-right: 100px;
 }
 p{
     font-size: 20px
 }
 .riyel{
     color: tomato;
+}
+.text-robi{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 70px;
+    padding-top: 20px;
+}
+.color-change{
+    color: orange;
+}
+#russia{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+.button-link{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato );
+    padding: 20px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.usa{
+    font-size: 10px;
+    font-family: 'Poppins', sans-serif;
 }
