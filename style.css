@@ -89,16 +89,24 @@ p{
 }
 .last-step{
     text-align: center;
-    background: rgba(66, 39, 14, 0.945);
+    background: rgb(5, 3, 0);
     padding-top: 20px;
     margin-top: 200px;
     padding-bottom: 100px;
 }
 .full-mean{
     font-size: 50px;
-    color: rgba(16, 141, 47, 0.836);
+    color: rgba(10, 121, 34, 0.808);
 }
 #new{
     font-size: 50px;
     font-family: 'PT Serif', serif;
+    color: white;
+}
+.lust-st{
+    color: white;
+}
+#rocky{
+    font-size: 20px;
+    color: white;
 }
