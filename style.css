@@ -4,8 +4,8 @@ body{
 }
 h1{
     font-size: 80px;
-    padding-top: 0px;
-    margin-top: 10px;
+    padding-top: 40px;
+    margin-top: 70px;
 }
 section{
     display: flex;
@@ -13,7 +13,7 @@ section{
 }
 .half-width{
     width: 40%;
-    padding-left: 100px;
+    padding-left: 80px;
     padding-top: px;
     padding-right:10px;
 }
@@ -52,6 +52,7 @@ p{
 #russia{
     text-align: center;
     font-family: 'Poppins', sans-serif;
+    color: indigo;
 }
 .button-link{
     text-decoration: none;
@@ -80,6 +81,22 @@ p{
 .exp-item{
     padding-left: 30px;
     border-left: 10px solid;
-    border-color: tomato;
+    border-color: olivedrab;
     border-image-slice: 1;
+    border-top: 20px;
+}
+.last-step{
+    text-align: center;
+    background: rgba(66, 39, 14, 0.945);
+    padding-top: 20px;
+    margin-top: 200px;
+    padding-bottom: 100px;
+}
+.full-mean{
+    font-size: 50px;
+    color: rgba(16, 141, 47, 0.836);
+}
+#new{
+    font-size: 50px;
+    font-family: 'PT Serif', serif;
 }
